@@ -1,0 +1,33 @@
+# Meroshare IPO Automation - Sensitive Files
+
+# Configuration files with credentials
+meroshare_config.json
+
+# Log files
+*.log
+ipo_applications.log
+
+# Screenshots (may contain sensitive info)
+*.png
+.playwright-mcp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Workflow exports
+workflow.json
+
+# Backup files
+*.bak
+*.backup
+*~
