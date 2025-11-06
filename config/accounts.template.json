@@ -1,0 +1,30 @@
+[
+    {
+        "account_name": "Account 1 - Your Name",
+        "dp_name": "YOUR_DP_NAME (CODE)",
+        "username": "your_username",
+        "password": "your_password",
+        "transaction_pin": "1234",
+        "crn": "YOUR_CRN_FROM_BANK",
+        "bank_details": {
+            "bank_name": "YOUR_BANK_NAME",
+            "account_number": "YOUR_ACCOUNT_NUMBER - TYPE",
+            "branch": "Your Branch Name"
+        },
+        "enabled": false
+    },
+    {
+        "account_name": "Account 2 - Another Name",
+        "dp_name": "YOUR_DP_NAME (CODE)",
+        "username": "another_username",
+        "password": "another_password",
+        "transaction_pin": "5678",
+        "crn": "YOUR_CRN_FROM_BANK",
+        "bank_details": {
+            "bank_name": "YOUR_BANK_NAME",
+            "account_number": "YOUR_ACCOUNT_NUMBER - TYPE",
+            "branch": "Your Branch Name"
+        },
+        "enabled": false
+    }
+]

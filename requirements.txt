@@ -1,0 +1,8 @@
+# Meroshare IPO Automation - Python Dependencies
+
+# Required for automation
+playwright>=1.40.0
+
+# Optional: For future enhancements
+# pandas>=2.0.0       # For advanced CSV/data handling
+# openpyxl>=3.1.0     # For Excel support

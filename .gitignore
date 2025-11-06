@@ -1,13 +1,16 @@
 # Meroshare IPO Automation - Sensitive Files
 
 # Configuration files with credentials
+config/accounts.json
 meroshare_config.json
 
 # Log files
+logs/*.log
 *.log
 ipo_applications.log
 
 # Screenshots (may contain sensitive info)
+screenshots/*.png
 *.png
 .playwright-mcp/
 
